@@ -1,8 +1,5 @@
 git is a distributed version control system
-git is a free software
+git is a free sasdd4oftasdgware
 ddd
 git has a mutable index called stage
-1
-2
-3
-
+sssssssss
