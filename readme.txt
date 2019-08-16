@@ -4,3 +4,8 @@ ddd
 git has a mutable index called stage
 sssssssss
 dddddd
+1
+2
+3
+4
+
